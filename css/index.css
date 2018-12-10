@@ -1,0 +1,16 @@
+.container{
+	margin-top: 80px;
+	background: linear-gradient(90deg, rgba(241,178,90,1) 0%, rgba(230,251,93,1) 100%);
+	border-radius: 10px;
+	padding: 40px;
+	box-shadow: 5px 5px 30px #888888; 
+}
+
+h2{
+	margin-bottom: 40px;
+	text-align: center;
+}
+
+.infos{
+	margin-bottom: 20px;
+}
